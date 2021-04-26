@@ -1,0 +1,142 @@
+html{
+    scroll-behavior: smooth;
+}
+header ul li{
+    font-size: 25px;
+    display: inline;
+    padding-right: 35px;
+}
+header ul{
+    text-align: center;
+    padding-top: 15px;
+    flex: 1;
+}
+header h1{
+    flex: 1;
+    font-family: 'Zen Dots', cursive;
+    color: white;
+    font-size: xx-large;
+    padding-left: 100px;
+}
+header a{
+    font-family: 'Hind', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+header a:hover{
+    color: rgb(255, 153, 0);
+}
+header nav{
+    display: flex;;
+    margin-top: -10px;
+    position: fixed;
+    background-image: url('../img/nav.png');
+    width: 100%;
+}
+header{
+    background-image:  linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.815)
+      ),url('../img/bg1.jpg');
+    transition: 1.5s linear;
+    -moz-transition: 1.5s linear;
+    background-repeat: no-repeat;
+    height: 1000px;    
+    margin-left: -10px;
+    margin-right: -10px;
+}
+header .launching{
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+    color: white;
+}
+header .launching .info{
+    font-size: 60px;
+}
+header .launching .info  h3{
+    background: linear-gradient(to right, #ffffff 20%, #ff7301 40%, #f17500 60%, #ffffff 80%);
+    background-size: 200% auto;
+    color: #000;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animate 3s linear infinite;
+}
+@keyframes animate {
+    to {
+      background-position: 200% center;
+    }
+}
+header .pre-order a{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 5px;
+}
+header .pre-order a:hover{
+    color: rgb(0, 0, 0); 
+    background-color: rgb(255, 198, 9);         
+}
+#detailpd {
+    font-size: 20px;
+    padding-top: 10px;
+    width: 100%;
+}
+#detail {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+
+}
+#detail img , table{
+    flex: 1;
+    padding: 30px;
+}
+#detail .detailproduct{
+    padding: 30px;
+}
+#contact #contact{
+    display: flex;
+}
+#contact iframe , .detailcontact{
+    flex: 1;
+    padding: 15px;
+}
+.input-field-border-bottom {
+    border: 1px solid #ddd;
+    display: inline-block;
+    padding: 2em;
+}
+.input-field-border-bottom label {
+    color: #9C1179;     /* Warna: Purple */
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    margin-bottom: 5px;
+}
+
+.input-field-border-bottom input[type="text"],
+.input-field-border-bottom textarea {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 15px;
+    padding: 0.5em 1em 0.5em 0;
+    width: 700px;     /* Ukuran bebas */
+}
+
+.input-field-border-bottom input[type="text"]:focus,
+.input-field-border-bottom textarea:focus {
+    border-bottom: 1px solid #000;
+    outline: none;
+}
+
