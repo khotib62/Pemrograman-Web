@@ -43,7 +43,7 @@
                     </tr>
                 </table>
                 <br>
-                <h3 class="pre-order"><a href="#pre-order">BELI O TALA REK</a></h3>
+                <h3 class="pre-order"><a href="#pre-order">Pre Order Now</a></h3>
             </div>
         </header>
         <!-- endofheader -->
