@@ -112,7 +112,7 @@
         <!-- contact -->
         <div id="contact">
             <div id="detail">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15801.931420218898!2d113.20155473440748!3d-8.052128007233536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd65ca0d70b746b%3A0xa660fe5efa38cf3!2sKrasak%2C%20Kec.%20Kedungjajang%2C%20Kabupaten%20Lumajang%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1619156514699!5m2!1sid!2sid"  height="600" style="border:0;" allowfullscreen="" loading="lazy" class="iframe"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31612.40499308049!2d112.59344216877949!3d-7.94191003387739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7881f5405daac1%3A0xb39e4847109109e4!2sUniversitas%20Muhammadiyah%20Malang%2C%20Kampus%20III!5e0!3m2!1sid!2sid!4v1619455702276!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                 <div class="detailcontact">
                         <h1 style="text-align: center;">Contact Us</h1>
                         <div class="input-field-border-bottom">
