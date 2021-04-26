@@ -24,7 +24,7 @@
             <div class="launching">
                 <table>
                     <tr class="info">
-                        <td colspan="4"><h6>Playstation 5</h6></td>
+                        <td colspan="4"><h6>bacot asu</h6></td>
                     </tr>
                     <tr class="info">
                         <td colspan="4"><h3>Launching At</h3></td>
