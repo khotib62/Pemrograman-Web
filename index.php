@@ -43,7 +43,7 @@
                     </tr>
                 </table>
                 <br>
-                <h3 class="pre-order"><a href="#pre-order">TUKUEN COK</a></h3>
+                <h3 class="pre-order"><a href="#pre-order">TUKU O RA COK</a></h3>
             </div>
         </header>
         <!-- endofheader -->
