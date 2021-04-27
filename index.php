@@ -18,7 +18,6 @@
                     <li><a href="#detailpd">Detail Product</a></li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#contact">Contact</a></li>
-                    <li><a href="#services">Service</a></li>
                 </ul>
             </nav>
             <div class="launching">
@@ -135,13 +134,6 @@
             <hr>
             </div>
             <!-- endofcontact -->
-
-            <!-- services -->
-            <div id="services">
-
-            </div>
-            <!-- endforservices -->
-
 
             <!-- footer -->
             <footer>
