@@ -30,7 +30,7 @@ header nav{
     display: flex;;
     margin-top: -10px;
     position: fixed;
-    background-image: rgb(38, 39, 43);
+    background-image: url(../img/nav.png);
     width: 100%;
 }
 header{
@@ -139,4 +139,3 @@ header .pre-order a:hover{
     border-bottom: 1px solid #000;
     outline: none;
 }
-
