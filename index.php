@@ -74,8 +74,7 @@
             <p>Sayangnya harga PS5 tidak turut diungkapkan selama acara 11 Juni kemarin dan kemungkinan akan tetap belum diberitakan hingga saat peluncuran resminya nanti. Sebelumnya kita mengetahui kalau PlayStation dan PS2 asli diluncurkan dengan harga £ 299 / $ 299, PS3 mulai dari £ 425 / $ 499 dan PS4 yang lebih baru dibanderol dengan harga £ 350 / $ 399.
                 Banyak gamers yang berspekulasi bahwa PS5 akan dibanderol dengan kisaran harga £ 400 / $ 400 per unit. Ini tentu saja harga di luar aksesori tambahan diatas yang mempunyai harga tersendiri. Namun sekali lagi harga ini belum pasti tetapi jika dilihat dari spesifikasi dan desain serta grafisnya yang lebih tinggi, tidak mengherankan jika Sony meletakkan harga yang diluar rata- rata nantinya.</p>
             <br><br><br>
-            <br><br><br>
-<hr>
+        <hr>
             </div>
           
         <!-- endofdetailproduct -->
@@ -94,7 +93,7 @@
             </div>
             <br><br>
             <img src="img/perusahaan.jpg" height="500px" width="500px" style="margin-left: 35%; ">
-            <p style="font-size: 20px;">Ketika Tokyo Tsushin Kogyo sedang mencari nama yang diromanisasi untuk digunakan untuk memasarkan diri mereka, mereka sangat mempertimbangkan menggunakan inisial mereka, TTK. Alasan utama mereka tidak melakukannya adalah karena perusahaan kereta api Tokyo Kyuko dikenal sebagai TTK.[19] Perusahaan itu sesekali menggunakan akronim "Totsuko" di Jepang, tetapi selama kunjungannya ke Amerika Serikat, Morita menemukan bahwa orang Amerika kesulitan mengucapkan nama itu. Nama awal lain yang dicoba untuk sementara waktu adalah "Tokyo Teletech" hingga Akio Morita menemukan bahwa ada perusahaan Amerika yang sudah menggunakan Teletech sebagai nama merek.[22]
+            <p style="font-size: 20px; font-family: Helvetica;">Ketika Tokyo Tsushin Kogyo sedang mencari nama yang diromanisasi untuk digunakan untuk memasarkan diri mereka, mereka sangat mempertimbangkan menggunakan inisial mereka, TTK. Alasan utama mereka tidak melakukannya adalah karena perusahaan kereta api Tokyo Kyuko dikenal sebagai TTK.[19] Perusahaan itu sesekali menggunakan akronim "Totsuko" di Jepang, tetapi selama kunjungannya ke Amerika Serikat, Morita menemukan bahwa orang Amerika kesulitan mengucapkan nama itu. Nama awal lain yang dicoba untuk sementara waktu adalah "Tokyo Teletech" hingga Akio Morita menemukan bahwa ada perusahaan Amerika yang sudah menggunakan Teletech sebagai nama merek.[22]
 
                 Nama "Sony" dipilih untuk merek sebagai campuran dari dua kata: satu adalah kata Latin "sonus", yang merupakan akar dari sonic dan suara, dan yang lainnya adalah "sonny", istilah slang umum yang digunakan pada 1950 Amerika memanggil seorang anak laki-laki.[10] Pada tahun 1950-an Jepang, "sonny boys" adalah kata pinjaman dalam bahasa Jepang, yang berkonotasi dengan pria muda yang cerdas dan rapi, yang dianggap oleh pendiri Sony, Akio Morita dan Masaru Ibuka.[10]
                 
@@ -103,7 +102,7 @@
                 Pada saat perubahan, sangat tidak biasa bagi perusahaan Jepang untuk menggunakan huruf Romawi untuk mengeja namanya alih-alih menuliskannya dalam huruf kanji. Langkah itu bukannya tanpa oposisi: bank utama TTK pada saat itu, Mitsui, memiliki perasaan yang kuat tentang nama itu. Mereka mendorong untuk nama seperti Sony Electronic Industries, atau Sony Teletech. Namun Akio Morita tegas, karena dia tidak ingin nama perusahaan terikat pada industri tertentu. Akhirnya, ketua Ibuka dan Mitsui Bank memberikan</p>
                 <br><br><br>
                 <br><br><br>
-            </div>
+        </div>
             <hr>        
             
         <!-- endofabout -->
