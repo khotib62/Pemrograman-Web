@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="css/style.css">
-        <title>Playstation 5</title>
+        <title>Playstation</title>
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -23,7 +23,7 @@
             <div class="launching">
                 <table>
                     <tr class="info">
-                        <td colspan="4"><h6>PS5</h6></td>
+                        <td colspan="4"><h6>PlayStation 5</h6></td>
                     </tr>
                     <tr class="info">
                         <td colspan="4"><h3>Launching At</h3></td>
