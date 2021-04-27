@@ -12,7 +12,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Hind:wght@500&family=Poppins&family=Zen+Dots&display=swap" rel="stylesheet">        <!-- header -->
         <header id="home">
             <nav>
-                <h1>PS</h1>
+                <h1>PlayStation</h1>
                 <ul>
                     <li><a href="#home">Home</a></li>
                     <li><a href="#detailpd">Detail Product</a></li>
