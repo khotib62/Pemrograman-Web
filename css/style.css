@@ -30,7 +30,7 @@ header nav{
     display: flex;;
     margin-top: -10px;
     position: fixed;
-    background-image: url('../img/nav.png');
+    background-image: rgb(38, 39, 43);
     width: 100%;
 }
 header{
