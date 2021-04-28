@@ -9,41 +9,62 @@
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+      </head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <link href="https://fonts.googleapis.com/css2?family=Hind:wght@500&family=Poppins&family=Zen+Dots&display=swap" rel="stylesheet">        <!-- header -->
         <header id="home">
-            <nav>
-                <h1>PlayStation</h1>
-                <ul>
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#detailpd">Detail Product</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </nav>
-            <div class="launching">
-                <table>
-                    <tr class="info">
-                        <td colspan="4"><h6>PlayStation 5</h6></td>
-                    </tr>
-                    <tr class="info">
-                        <td colspan="4"><h3>Launching At</h3></td>
-                    </tr>
-                    <tr class="info">
-                        <td id="days"></td>
-                        <td id="hours"></td>
-                        <td id="minutes"></td>
-                        <td id="seconds"></td>
-                    </tr>
-                    <tr>
-                        <td>Days</td>
-                        <td>Hours</td>
-                        <td>Minutes</td>
-                        <td>Seconds</td>
-                    </tr>
-                </table>
-                <br>
-                <h3 class="pre-order"><a href="#pre-order">Pre Order Now</a></h3>
+        <nav class="navbar navbar-dark bg-dark position-fixed">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#"><h1>PlayStasion</h1></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                      <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a href="#" class="nav-link text-light"><h3>Home</h3></a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#detailpd" class="nav-link text-light"><h3>Detail Product</h3></a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#about" class="nav-link text-light"><h3>About</h3></a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#contact" class="nav-link text-light"><h3>Contact</h3></a>
+                            </li>
+                      </ul>
+                    </div>
+            </div>
+          </nav>
+
+
+            <div class="container text-center" style="padding-top: 300px; padding-bottom: 50px;">
+                <div class="row text-center pb-5 info" style="margin-left: 350px;">
+                    <h1 class="pre-order row">Playstation 5</h1>
+                </div>
+                <div class="row text-center pb-5" style="margin-left:200px;">
+                    <h1 class="pre-order row" style="font-size: 70px;">Launching At</h1>
+                </div>
+                <div class="row">
+                    <h1 class="col" id="days" style="font-size: 60px;"></h1>
+                    <h1 class="col" id="hours" style="font-size: 60px;"></h1>
+                    <h1 class="col" id="minutes" style="font-size: 60px;"></h1>
+                    <h1 class="col" id="seconds" style="font-size: 60px;"></h1>
+                </div>
+                <div class="row" style="color:white">
+                    <div class="col"><h3>Days</h3></div>
+                    <div class="col"><h3>Hours</h3></div>
+                    <div class="col"><h3>Minutes</h3></div>
+                    <div class="col"><h3>Seconds</h3></div>
+                </div>
+                <div class="row text-center mt-4" style="margin-left: 450px;">
+                    <h3 class="pre-order row"><a href="#pre-order">Pre-Order Now</a></h3>
+                </div>
+            </div>
             </div>
         </header>
         <!-- endofheader -->
@@ -75,7 +96,8 @@
             <p>Sayangnya harga PS5 tidak turut diungkapkan selama acara 11 Juni kemarin dan kemungkinan akan tetap belum diberitakan hingga saat peluncuran resminya nanti. Sebelumnya kita mengetahui kalau PlayStation dan PS2 asli diluncurkan dengan harga £ 299 / $ 299, PS3 mulai dari £ 425 / $ 499 dan PS4 yang lebih baru dibanderol dengan harga £ 350 / $ 399.
                 Banyak gamers yang berspekulasi bahwa PS5 akan dibanderol dengan kisaran harga £ 400 / $ 400 per unit. Ini tentu saja harga di luar aksesori tambahan diatas yang mempunyai harga tersendiri. Namun sekali lagi harga ini belum pasti tetapi jika dilihat dari spesifikasi dan desain serta grafisnya yang lebih tinggi, tidak mengherankan jika Sony meletakkan harga yang diluar rata- rata nantinya.</p>
             <br><br><br>
-        <hr>
+            <br><br><br>
+<hr>
             </div>
           
         <!-- endofdetailproduct -->
@@ -94,7 +116,7 @@
             </div>
             <br><br>
             <img src="img/perusahaan.jpg" height="500px" width="500px" style="margin-left: 35%; ">
-            <p style="font-size: 20px; font-family: Helvetica;">Ketika Tokyo Tsushin Kogyo sedang mencari nama yang diromanisasi untuk digunakan untuk memasarkan diri mereka, mereka sangat mempertimbangkan menggunakan inisial mereka, TTK. Alasan utama mereka tidak melakukannya adalah karena perusahaan kereta api Tokyo Kyuko dikenal sebagai TTK.[19] Perusahaan itu sesekali menggunakan akronim "Totsuko" di Jepang, tetapi selama kunjungannya ke Amerika Serikat, Morita menemukan bahwa orang Amerika kesulitan mengucapkan nama itu. Nama awal lain yang dicoba untuk sementara waktu adalah "Tokyo Teletech" hingga Akio Morita menemukan bahwa ada perusahaan Amerika yang sudah menggunakan Teletech sebagai nama merek.[22]
+            <p style="font-size: 20px;">Ketika Tokyo Tsushin Kogyo sedang mencari nama yang diromanisasi untuk digunakan untuk memasarkan diri mereka, mereka sangat mempertimbangkan menggunakan inisial mereka, TTK. Alasan utama mereka tidak melakukannya adalah karena perusahaan kereta api Tokyo Kyuko dikenal sebagai TTK.[19] Perusahaan itu sesekali menggunakan akronim "Totsuko" di Jepang, tetapi selama kunjungannya ke Amerika Serikat, Morita menemukan bahwa orang Amerika kesulitan mengucapkan nama itu. Nama awal lain yang dicoba untuk sementara waktu adalah "Tokyo Teletech" hingga Akio Morita menemukan bahwa ada perusahaan Amerika yang sudah menggunakan Teletech sebagai nama merek.[22]
 
                 Nama "Sony" dipilih untuk merek sebagai campuran dari dua kata: satu adalah kata Latin "sonus", yang merupakan akar dari sonic dan suara, dan yang lainnya adalah "sonny", istilah slang umum yang digunakan pada 1950 Amerika memanggil seorang anak laki-laki.[10] Pada tahun 1950-an Jepang, "sonny boys" adalah kata pinjaman dalam bahasa Jepang, yang berkonotasi dengan pria muda yang cerdas dan rapi, yang dianggap oleh pendiri Sony, Akio Morita dan Masaru Ibuka.[10]
                 
@@ -103,7 +125,7 @@
                 Pada saat perubahan, sangat tidak biasa bagi perusahaan Jepang untuk menggunakan huruf Romawi untuk mengeja namanya alih-alih menuliskannya dalam huruf kanji. Langkah itu bukannya tanpa oposisi: bank utama TTK pada saat itu, Mitsui, memiliki perasaan yang kuat tentang nama itu. Mereka mendorong untuk nama seperti Sony Electronic Industries, atau Sony Teletech. Namun Akio Morita tegas, karena dia tidak ingin nama perusahaan terikat pada industri tertentu. Akhirnya, ketua Ibuka dan Mitsui Bank memberikan</p>
                 <br><br><br>
                 <br><br><br>
-        </div>
+            </div>
             <hr>        
             
         <!-- endofabout -->
@@ -111,7 +133,7 @@
         <!-- contact -->
         <div id="contact">
             <div id="detail">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31612.40499308049!2d112.59344216877949!3d-7.94191003387739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7881f5405daac1%3A0xb39e4847109109e4!2sUniversitas%20Muhammadiyah%20Malang%2C%20Kampus%20III!5e0!3m2!1sid!2sid!4v1619455702276!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31612.40499308049!2d112.59344216877949!3d-7.94191003387739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7881f5405daac1%3A0xb39e4847109109e4!2sUniversitas%20Muhammadiyah%20Malang%2C%20Kampus%20III!5e0!3m2!1sid!2sid!4v1619587450138!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                 <div class="detailcontact">
                         <h1 style="text-align: center;">Contact Us</h1>
                         <div class="input-field-border-bottom">
@@ -130,8 +152,6 @@
                 </div>
             </div>
             <br><br><br>
-            <br><br><br>
-            <hr>
             </div>
             <!-- endofcontact -->
 
@@ -141,7 +161,7 @@
                     <div class="row">
                     <div class="col-sm-12 col-md-6">
                         <h6>About</h6>
-                        <p class="text-justify">Scanfcode.com <i>CODE WANTS TO BE SIMPLE </i> is an initiative  to help the upcoming programmers with the code. Scanfcode focuses on providing the most efficient code or snippets as the code wants to be simple. We will help programmers build up concepts in different programming languages that include C, C++, Java, HTML, CSS, Bootstrap, JavaScript, PHP, Android, SQL and Algorithm.</p>
+                        <p class="text-justify">"PlayStation", "PlayStation Family Mark", "PS5", "logo PS5", "DualSense" dan "Play Has No Limits" adalah merek dagang terdaftar atau merek dagang dari Sony Interactive Entertainment Inc. Heighten Your Senses adalah merek dagang terdaftar atau merek dagang dari Sony Interactive Entertainment LLC. "SONY" adalah merek dagang terdaftar dari Sony Corporation.</p>
                     </div>
 
                     <div class="col-xs-6 col-md-3">
